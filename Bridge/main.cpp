@@ -47,6 +47,7 @@ class BigStok : public Stok
             std::cout << '\n';
         }
     }
+
 private:
     std::vector <std::string> _Product;
 };
